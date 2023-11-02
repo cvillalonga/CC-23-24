@@ -1,3 +1,3 @@
-# Meta
+# Hitos
 
 Directorio para hitos
