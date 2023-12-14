@@ -2,6 +2,7 @@
 
 En este directorio estarán los ficheros con información de las clases ordenados cronológicamente de forma inversa.
 
+* [Sesión 14 de diciembre 2023](2023_12_14.md).
 * [Sesión 30 de noviembre 2023](2023_11_30.md).
 * ~~[Sesión 16 de noviembre 2023]~~ CANCELADA.
 * [Sesión 9 de noviembre 2023](2023_11_09.md).
