@@ -21,10 +21,10 @@ Los hitos para la realización del proyecto son los siguientes:
 * [Hito 0: Descripción del problema a resolver usando correctamente git y GitHub](hitos/0.Repositorio.md). Fecha límite de entrega: 26 de octubre de 2023.
 * [Hito 1: Concretando y planificando el proyecto](hitos/1.Infraestructura.md). Fecha límite de entrega: 2 de noviembre de 2023.
 * [Hito 2: Tests](hitos/2.Tests.md). Fecha límite de entrega: 16 de noviembre de 2023.
-* [Hito 3: Creación de un contenedor para pruebas](hitos/3.Docker.md). Fecha límite de entrega: 30 de noviembre de 2023.
-* [Hito 4: Integración continua](hitos/4.CI.md). Fecha límite de entrega: 21 de diciembre de 2023.
-* [Hito 5: Diseño y test de un microservicio](hitos/5.Microservicio.md). Fecha límite de entrega: 18 de enero de 2024.
-* [Hito 6: Composición de servicios](hitos/6.Compose.md). Fecha límite de entrega: 26 de enero de 2024.
+* [Hito 3: Creación de un contenedor para pruebas](hitos/3.Docker.md). Fecha límite de entrega: ~~30 de noviembre de 2023~~ 21 de diciembre de 2023.
+* [Hito 4: Integración continua](hitos/4.CI.md). Fecha límite de entrega: ~~21 de diciembre de 2023~~ ~~16 de enero de 2024~~ 18 de enero de 2024.
+* [Hito 5: Diseño y test de un microservicio](hitos/5.Microservicio.md). Fecha límite de entrega: ~~18 de enero de 2024~~ 25 de enero de 2024.
+* [Hito 6: Composición de servicios](hitos/6.Compose.md). Fecha límite de entrega: ~~26 de enero de 2024~~ 3 de febrero de 2024.
 
 Se entregan los [hitos del proyecto actualizando los ficheros de hitos y haciendo un pull request](proyectos/README.md)
 
